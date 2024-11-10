@@ -1,6 +1,7 @@
 python3 npm-registry.py
 git config user.name github-actions
 git config user.email github-actions@github.com
+git rm -rf packages
 git add .
-git commit -m "AUTO updated sequence number"
+git commit -m "AUTO updated"
 git push --force
