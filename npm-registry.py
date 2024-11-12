@@ -1,6 +1,13 @@
 import os
 import shutil
-
+from sys import platform
+packages_dir = ""
+if platform == "linux" or platform == "linux2":
+    packages_dir = "/home/runner/.local/share/verdaccio/"
+elif platform == "darwin":
+    packages_dir = "/home/runner/.local/share/verdaccio/"
+elif platform == "win32":
+    packages_dir = "c:/users/runneradmin/.local/share/verdaccio/"
 original_list = {}
 try:
     with open("npm-packages.list", "r", encoding="utf-8") as f:
@@ -12,9 +19,6 @@ try:
 except Exception as e:
     print('no packages list found', e)
     pass
-
-
-packages_dir = "/home/runner/.local/share/verdaccio/"
 
 new_list = {}
 for (dirpath, dirnames, filenames) in os.walk(packages_dir):
