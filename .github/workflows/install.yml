@@ -21,6 +21,7 @@ jobs:
       with:
         version: "9.1.1"
     - name: pnpm install
+      shell: bash
       run: |
         pnpm i -g verdaccio
         git config user.name github-actions
