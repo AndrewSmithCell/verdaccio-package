@@ -1,4 +1,4 @@
-name: npm registry
+name: npm registry windows
 on: 
   workflow_dispatch:
     inputs:
