@@ -34,7 +34,7 @@ for (dirpath, dirnames, filenames) in os.walk(packages_dir):
 with open("npm-packages.list", "w", encoding='utf-8') as f:
     for (g, sz) in original_list.items():
         f.write(f"{g} {sz}\n")
-    
+
 os.makedirs("packages", exist_ok=True)
 for (f, sz) in new_list.items():
     g = os.path.join("packages", f)
@@ -46,3 +46,8 @@ with open(os.path.join("packages", "new_packages.list"), "w", encoding="utf-8") 
     for (g, sz) in new_list.items():
         f.write(f"{g} {sz}\n")
         
+if os.path.exists('.temp/package.json'):
+    shutil.copyfile('.temp/package.json', 'packages/package.json')
+
+if os.path.exists('.temp/package-lock.json'):
+    shutil.copyfile('.temp/package-lock.json', 'packages/package-lock.json')
