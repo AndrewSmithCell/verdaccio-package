@@ -1811,11 +1811,13 @@ storage/@rollup/rollup-linux-s390x-gnu/package.json 88276
 storage/@rollup/rollup-linux-s390x-gnu/rollup-linux-s390x-gnu-4.24.0.tgz 1536349
 storage/@rollup/rollup-linux-s390x-gnu/rollup-linux-s390x-gnu-4.24.4.tgz 1531518
 storage/@rollup/rollup-linux-x64-gnu/package.json 226157
+storage/@rollup/rollup-linux-x64-gnu/rollup-linux-x64-gnu-4.21.2.tgz 1043694
 storage/@rollup/rollup-linux-x64-gnu/rollup-linux-x64-gnu-4.22.4.tgz 1047394
 storage/@rollup/rollup-linux-x64-gnu/rollup-linux-x64-gnu-4.24.0.tgz 1031135
 storage/@rollup/rollup-linux-x64-gnu/rollup-linux-x64-gnu-4.24.4.tgz 1056554
 storage/@rollup/rollup-linux-x64-gnu/rollup-linux-x64-gnu-4.25.0.tgz 1050042
 storage/@rollup/rollup-linux-x64-musl/package.json 222217
+storage/@rollup/rollup-linux-x64-musl/rollup-linux-x64-musl-4.21.2.tgz 1034902
 storage/@rollup/rollup-linux-x64-musl/rollup-linux-x64-musl-4.24.0.tgz 1031075
 storage/@rollup/rollup-linux-x64-musl/rollup-linux-x64-musl-4.24.4.tgz 1051894
 storage/@rollup/rollup-win32-arm64-msvc/package.json 223668
@@ -1996,8 +1998,10 @@ storage/@swc/core-linux-arm64-gnu/core-linux-arm64-gnu-1.8.0.tgz 15400865
 storage/@swc/core-linux-arm64-gnu/package.json 1602658
 storage/@swc/core-linux-arm64-musl/core-linux-arm64-musl-1.8.0.tgz 18824863
 storage/@swc/core-linux-arm64-musl/package.json 1555641
+storage/@swc/core-linux-x64-gnu/core-linux-x64-gnu-1.7.22.tgz 17318194
 storage/@swc/core-linux-x64-gnu/core-linux-x64-gnu-1.8.0.tgz 16923816
 storage/@swc/core-linux-x64-gnu/package.json 1590647
+storage/@swc/core-linux-x64-musl/core-linux-x64-musl-1.7.22.tgz 21131835
 storage/@swc/core-linux-x64-musl/core-linux-x64-musl-1.8.0.tgz 20735833
 storage/@swc/core-linux-x64-musl/package.json 1595527
 storage/@swc/core-win32-arm64-msvc/core-win32-arm64-msvc-1.8.0.tgz 10890818
