@@ -66,3 +66,9 @@ if os.path.exists('.temp/package.json'):
 
 if os.path.exists('.temp/package-lock.json'):
     shutil.copyfile('.temp/package-lock.json', f'{out_dir}/package-lock.json')
+
+if os.path.exists('.temp/yarn.lock'):
+    shutil.copyfile('.temp/yarn.lock', f'{out_dir}/yarn.lock')
+
+if os.path.exists('.temp/pnpm-lock.yaml'):
+    shutil.copyfile('.temp/pnpm-lock.yaml', f'{out_dir}/pnpm-lock.yaml')
