@@ -1982,6 +1982,8 @@ storage/@storybook/react-vite/react-vite-8.2.9.tgz 4394
 storage/@storybook/react/react-8.2.9.tgz 19056
 storage/@storybook/test/test-8.2.9.tgz 371224
 storage/@storybook/theming/theming-8.2.9.tgz 763
+storage/@sveltejs/vite-plugin-svelte-inspector/vite-plugin-svelte-inspector-4.0.1.tgz 9238
+storage/@sveltejs/vite-plugin-svelte/vite-plugin-svelte-5.0.3.tgz 33852
 storage/@svgr/babel-plugin-add-jsx-attribute/babel-plugin-add-jsx-attribute-8.0.0.tgz 4502
 storage/@svgr/babel-plugin-add-jsx-attribute/package.json 43641
 storage/@svgr/babel-plugin-remove-jsx-attribute/babel-plugin-remove-jsx-attribute-8.0.0.tgz 2382
@@ -2130,6 +2132,7 @@ storage/@tsconfig/node16/node16-1.0.4.tgz 1311
 storage/@tsconfig/node16/package.json 21603
 storage/@tsconfig/node20/node20-20.1.4.tgz 1302
 storage/@tsconfig/node20/package.json 17424
+storage/@tsconfig/svelte/svelte-5.0.4.tgz 1571
 storage/@tsoa/cli/cli-6.5.1.tgz 97068
 storage/@tsoa/cli/package.json 235798
 storage/@tsoa/runtime/package.json 141680
@@ -3075,6 +3078,7 @@ storage/acorn-jsx/acorn-jsx-5.3.2.tgz 7635
 storage/acorn-jsx/package.json 97141
 storage/acorn-node/acorn-node-1.8.2.tgz 11443
 storage/acorn-node/package.json 103484
+storage/acorn-typescript/acorn-typescript-1.4.13.tgz 112831
 storage/acorn-walk/acorn-walk-7.2.0.tgz 14853
 storage/acorn-walk/acorn-walk-8.2.0.tgz 8882
 storage/acorn-walk/acorn-walk-8.3.4.tgz 9567
@@ -3885,6 +3889,7 @@ storage/chokidar/chokidar-3.3.0.tgz 25567
 storage/chokidar/chokidar-3.5.3.tgz 26290
 storage/chokidar/chokidar-3.6.0.tgz 26452
 storage/chokidar/chokidar-4.0.1.tgz 37246
+storage/chokidar/chokidar-4.0.3.tgz 25133
 storage/chokidar/package.json 321725
 storage/chownr/chownr-1.1.4.tgz 2226
 storage/chownr/chownr-2.0.0.tgz 2243
@@ -5075,6 +5080,7 @@ storage/eslint/eslint-9.12.0.tgz 606092
 storage/eslint/eslint-9.17.0.tgz 614812
 storage/eslint/eslint-9.9.1.tgz 571764
 storage/eslint/package.json 2111394
+storage/esm-env/esm-env-1.2.1.tgz 2240
 storage/esm/esm-3.2.25.tgz 91429
 storage/esm/package.json 397462
 storage/esniff/esniff-2.0.1.tgz 17298
@@ -5093,6 +5099,7 @@ storage/espurify/package.json 73700
 storage/esquery/esquery-1.4.0.tgz 160592
 storage/esquery/esquery-1.6.0.tgz 162341
 storage/esquery/package.json 57596
+storage/esrap/esrap-1.3.2.tgz 11376
 storage/esrecurse/esrecurse-4.3.0.tgz 4053
 storage/esrecurse/package.json 36855
 storage/estraverse/estraverse-4.3.0.tgz 7883
@@ -6352,6 +6359,7 @@ storage/is-promise/is-promise-2.2.2.tgz 1549
 storage/is-promise/is-promise-4.0.0.tgz 1620
 storage/is-promise/package.json 23135
 storage/is-redirect/is-redirect-1.0.0.tgz 1485
+storage/is-reference/is-reference-3.0.3.tgz 1724
 storage/is-regex/is-regex-1.1.4.tgz 10555
 storage/is-regex/is-regex-1.2.1.tgz 12196
 storage/is-regex/package.json 45114
@@ -6915,6 +6923,7 @@ storage/local-pkg/local-pkg-0.5.0.tgz 5653
 storage/local-pkg/package.json 35309
 storage/localforage/localforage-1.10.0.tgz 98575
 storage/localforage/package.json 184982
+storage/locate-character/locate-character-3.0.0.tgz 2113
 storage/locate-path/locate-path-2.0.0.tgz 2019
 storage/locate-path/locate-path-3.0.0.tgz 1957
 storage/locate-path/locate-path-5.0.0.tgz 2723
@@ -9800,6 +9809,8 @@ storage/supports-preserve-symlinks-flag/package.json 7343
 storage/supports-preserve-symlinks-flag/supports-preserve-symlinks-flag-1.0.0.tgz 3810
 storage/suspend-react/package.json 59558
 storage/suspend-react/suspend-react-0.1.3.tgz 4547
+storage/svelte-check/svelte-check-4.1.1.tgz 785466
+storage/svelte/svelte-5.16.0.tgz 616367
 storage/sver-compat/sver-compat-1.5.0.tgz 6612
 storage/svg-parser/package.json 36482
 storage/svg-parser/svg-parser-2.0.4.tgz 8261
@@ -10896,6 +10907,7 @@ storage/z-schema/package.json 407733
 storage/z-schema/z-schema-5.0.5.tgz 402831
 storage/zdog/package.json 28165
 storage/zdog/zdog-1.1.3.tgz 31608
+storage/zimmerframe/zimmerframe-1.1.2.tgz 4849
 storage/zip-stream/package.json 138326
 storage/zip-stream/zip-stream-4.1.0.tgz 4803
 storage/zip-stream/zip-stream-4.1.1.tgz 4826
