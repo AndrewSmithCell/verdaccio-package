@@ -31,7 +31,7 @@ jobs:
       shell: bash
       run: |
         date=$(date '+%Y%m%d%H%M%S')
-        "/c/Program Files/7-Zip/7z.exe" a -t7z -mx=1 -m0=LZMA2 -md=256k -mfb=32 -ms=32m -mmt=4 -v40m verdaccio-packages-$date.7z packages/ -x!node_modules
+        "/c/Program Files/7-Zip/7z.exe" a -t7z -mx -m0=LZMA2 -v40m verdaccio-packages-$date.7z packages/ -x!node_modules
     - name: create release and upload assets
       uses: softprops/action-gh-release@v2
       with:
