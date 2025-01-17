@@ -1,21 +1,28 @@
 {
-  "name": "@vnoi-admin/oj",
-  "type": "module",
+  "name": "material-ui-pigment-css-nextjs-ts",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
-    "format": "prettier --write websocket",
-    "format:check": "prettier --check websocket"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
   },
   "dependencies": {
-    "@commander-js/extra-typings": "11.0.0",
-    "commander": "11.0.0",
-    "ws": "8.14.0"
+    "@mui/material": "latest",
+    "@mui/material-pigment-css": "latest",
+    "@pigment-css/react": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
   },
   "devDependencies": {
-    "@types/ws": "8.5.5",
-    "autoprefixer": "10.4.15",
-    "postcss": "8.4.29",
-    "postcss-cli": "10.1.0",
-    "prettier": "3.0.3",
-    "sass": "1.66.1"
+    "@pigment-css/nextjs-plugin": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "typescript": "latest"
   }
 }
