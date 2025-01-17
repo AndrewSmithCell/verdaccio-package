@@ -972,6 +972,7 @@ storage/@esbuild/win32-x64/win32-x64-0.21.5.tgz 4195965
 storage/@esbuild/win32-x64/win32-x64-0.23.0.tgz 4317679
 storage/@esbuild/win32-x64/win32-x64-0.23.1.tgz 4319416
 storage/@esbuild/win32-x64/win32-x64-0.24.0.tgz 4410441
+storage/@esbuild/win32-x64/win32-x64-0.24.2.tgz 4416088
 storage/@eslint-community/eslint-utils/eslint-utils-4.4.0.tgz 63694
 storage/@eslint-community/eslint-utils/eslint-utils-4.4.1.tgz 63552
 storage/@eslint-community/eslint-utils/package.json 70661
@@ -2040,6 +2041,7 @@ storage/@rollup/rollup-win32-x64-msvc/rollup-win32-x64-msvc-4.21.2.tgz 1188041
 storage/@rollup/rollup-win32-x64-msvc/rollup-win32-x64-msvc-4.24.0.tgz 1177971
 storage/@rollup/rollup-win32-x64-msvc/rollup-win32-x64-msvc-4.24.4.tgz 1183421
 storage/@rollup/rollup-win32-x64-msvc/rollup-win32-x64-msvc-4.29.1.tgz 1175599
+storage/@rollup/rollup-win32-x64-msvc/rollup-win32-x64-msvc-4.30.1.tgz 1183336
 storage/@rspack/core/package.json 5034799
 storage/@rtsao/scc/package.json 7061
 storage/@rtsao/scc/scc-1.1.0.tgz 1862
