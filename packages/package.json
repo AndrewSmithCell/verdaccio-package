@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "@excalidraw/excalidraw": "^0.17.6",
-    "react-resizable-panels": "^2.1.7",
-    "vditor": "^3.10.8"
-  }
-}
