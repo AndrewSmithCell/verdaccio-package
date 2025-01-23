@@ -1075,6 +1075,7 @@ storage/@ethersproject/web/package.json 208479
 storage/@ethersproject/web/web-5.6.0.tgz 22087
 storage/@ethersproject/wordlists/package.json 143116
 storage/@ethersproject/wordlists/wordlists-5.6.0.tgz 130666
+storage/@excalidraw/excalidraw/excalidraw-0.17.6.tgz 10631356
 storage/@faker-js/faker/faker-8.4.1.tgz 2428696
 storage/@faker-js/faker/faker-9.2.0.tgz 2049585
 storage/@faker-js/faker/package.json 388942
@@ -5009,6 +5010,7 @@ storage/dicer/dicer-0.2.5.tgz 14574
 storage/dicer/package.json 44634
 storage/didyoumean/didyoumean-1.2.2.tgz 4571
 storage/didyoumean/package.json 13104
+storage/diff-match-patch/diff-match-patch-1.0.5.tgz 24872
 storage/diff-sequences/diff-sequences-25.2.6.tgz 13912
 storage/diff-sequences/diff-sequences-28.1.1.tgz 11442
 storage/diff-sequences/diff-sequences-29.6.3.tgz 11408
@@ -9344,6 +9346,7 @@ storage/react-redux/react-redux-9.1.2.tgz 175381
 storage/react-refresh/package.json 6451250
 storage/react-refresh/react-refresh-0.14.2.tgz 15124
 storage/react-refresh/react-refresh-0.9.0.tgz 14753
+storage/react-resizable-panels/react-resizable-panels-2.1.7.tgz 217909
 storage/react-router-dom/package.json 1534761
 storage/react-router-dom/react-router-dom-6.27.0.tgz 234535
 storage/react-router-dom/react-router-dom-6.28.0.tgz 235609
@@ -11093,6 +11096,7 @@ storage/value-or-promise/package.json 59795
 storage/value-or-promise/value-or-promise-1.0.6.tgz 4949
 storage/vary/package.json 19755
 storage/vary/vary-1.1.2.tgz 3772
+storage/vditor/vditor-3.10.8.tgz 5851067
 storage/vee-validate/package.json 1370165
 storage/vee-validate/vee-validate-4.14.3.tgz 128420
 storage/vendors/vendors-1.0.4.tgz 2122
