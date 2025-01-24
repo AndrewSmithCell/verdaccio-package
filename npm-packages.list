@@ -3357,6 +3357,7 @@ storage/abstract-logging/abstract-logging-2.0.1.tgz 1223
 storage/abstract-logging/package.json 9710
 storage/accepts/accepts-1.3.8.tgz 5403
 storage/accepts/package.json 101986
+storage/ace-builds/ace-builds-1.37.5.tgz 10003560
 storage/acorn-globals/acorn-globals-3.1.0.tgz 3541
 storage/acorn-globals/acorn-globals-6.0.0.tgz 3178
 storage/acorn-globals/acorn-globals-7.0.1.tgz 3302
@@ -9252,6 +9253,7 @@ storage/rc/package.json 93844
 storage/rc/rc-1.2.8.tgz 7148
 storage/re-resizable/package.json 452196
 storage/re-resizable/re-resizable-6.10.0.tgz 25014
+storage/react-ace/react-ace-13.0.0.tgz 460012
 storage/react-activity-calendar/package.json 371351
 storage/react-activity-calendar/react-activity-calendar-2.7.1.tgz 24179
 storage/react-avatar/package.json 251878
