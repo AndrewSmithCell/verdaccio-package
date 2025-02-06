@@ -4665,8 +4665,10 @@ storage/configstore/configstore-7.0.0.tgz 3244
 storage/configstore/package.json 102535
 storage/confusing-browser-globals/confusing-browser-globals-1.0.11.tgz 2077
 storage/confusing-browser-globals/package.json 143287
+storage/connect-history-api-fallback/connect-history-api-fallback-1.6.0.tgz 4680
 storage/connect-history-api-fallback/connect-history-api-fallback-2.0.0.tgz 4227
 storage/connect-history-api-fallback/package.json 37466
+storage/connect-livereload/connect-livereload-0.6.1.tgz 5211
 storage/connect-typeorm/connect-typeorm-2.0.0.tgz 6838
 storage/connect-typeorm/package.json 37070
 storage/connect/connect-3.7.0.tgz 27485
@@ -5237,6 +5239,9 @@ storage/dmg-builder/package.json 780776
 storage/dmg-license/package.json 80995
 storage/dns-packet/dns-packet-5.6.1.tgz 13581
 storage/dns-packet/package.json 120689
+storage/docsify-cli/docsify-cli-4.4.4.tgz 12191
+storage/docsify-server-renderer/docsify-server-renderer-4.13.1.tgz 31165
+storage/docsify/docsify-4.13.1.tgz 217987
 storage/doctrine/doctrine-2.1.0.tgz 22263
 storage/doctrine/doctrine-3.0.0.tgz 22354
 storage/doctrine/package.json 84114
@@ -7592,6 +7597,8 @@ storage/listr2/listr2-8.2.5.tgz 56812
 storage/listr2/package.json 1234891
 storage/little-state-machine/little-state-machine-4.8.0.tgz 8154
 storage/livereload-js/livereload-js-2.4.0.tgz 21950
+storage/livereload-js/livereload-js-3.4.1.tgz 67304
+storage/livereload/livereload-0.9.3.tgz 17223
 storage/lmdb/lmdb-3.0.13.tgz 610826
 storage/lmdb/package.json 1047535
 storage/load-json-file/load-json-file-1.1.0.tgz 1825
@@ -7864,6 +7871,7 @@ storage/markdown-to-jsx/markdown-to-jsx-7.7.3.tgz 139761
 storage/markdown-to-jsx/package.json 599027
 storage/marked-terminal/marked-terminal-6.2.0.tgz 13627
 storage/marked/marked-0.7.0.tgz 25921
+storage/marked/marked-1.2.9.tgz 64384
 storage/marked/marked-14.1.3.tgz 174150
 storage/marked/marked-15.0.6.tgz 179806
 storage/marked/marked-2.1.3.tgz 77546
@@ -7982,6 +7990,7 @@ storage/meant/meant-1.0.3.tgz 2767
 storage/meant/package.json 17436
 storage/media-typer/media-typer-0.3.0.tgz 4189
 storage/media-typer/package.json 25025
+storage/medium-zoom/medium-zoom-1.1.0.tgz 28835
 storage/mem/mem-5.1.1.tgz 3702
 storage/mem/mem-8.1.1.tgz 5660
 storage/mem/mem-9.0.2.tgz 5719
@@ -8697,6 +8706,7 @@ storage/onetime/package.json 38685
 storage/oniguruma-to-es/oniguruma-to-es-0.8.1.tgz 189206
 storage/only/only-0.0.2.tgz 1580
 storage/open/open-10.1.0.tgz 15446
+storage/open/open-6.4.0.tgz 10846
 storage/open/open-7.4.2.tgz 12663
 storage/open/open-8.4.0.tgz 13020
 storage/open/open-8.4.2.tgz 12898
@@ -8707,6 +8717,7 @@ storage/openapi-types/openapi-types-12.1.3.tgz 6505
 storage/openapi-types/package.json 110018
 storage/openapi3-ts/openapi3-ts-4.4.0.tgz 21543
 storage/openapi3-ts/package.json 188408
+storage/opencollective-postinstall/opencollective-postinstall-2.0.3.tgz 1947
 storage/opener/opener-1.5.2.tgz 3071
 storage/opener/package.json 26515
 storage/opentracing/opentracing-0.14.7.tgz 47034
@@ -8721,6 +8732,7 @@ storage/optionator/optionator-0.9.1.tgz 13979
 storage/optionator/optionator-0.9.3.tgz 14004
 storage/optionator/optionator-0.9.4.tgz 14017
 storage/optionator/package.json 61694
+storage/opts/opts-2.0.2.tgz 8300
 storage/ora/ora-5.4.1.tgz 6904
 storage/ora/ora-8.1.1.tgz 7536
 storage/ora/package.json 160220
@@ -8837,6 +8849,7 @@ storage/parchment/parchment-1.1.4.tgz 38712
 storage/parchment/parchment-3.0.0.tgz 68638
 storage/parent-module/package.json 20211
 storage/parent-module/parent-module-1.0.1.tgz 2008
+storage/parent-require/parent-require-1.0.0.tgz 2819
 storage/parse-asn1/package.json 46654
 storage/parse-asn1/parse-asn1-5.1.6.tgz 3847
 storage/parse-asn1/parse-asn1-5.1.7.tgz 7938
@@ -9991,6 +10004,7 @@ storage/resolve-global/package.json 9960
 storage/resolve-global/resolve-global-1.0.0.tgz 1912
 storage/resolve-options/resolve-options-1.1.0.tgz 3235
 storage/resolve-path/resolve-path-1.4.0.tgz 3709
+storage/resolve-pathname/resolve-pathname-3.0.0.tgz 3877
 storage/resolve-pkg-maps/package.json 12071
 storage/resolve-pkg-maps/resolve-pkg-maps-1.0.0.tgz 5194
 storage/resolve-url-loader/package.json 159671
@@ -10899,6 +10913,7 @@ storage/tiny-warning/tiny-warning-1.0.3.tgz 3751
 storage/tinybench/package.json 147682
 storage/tinybench/tinybench-2.3.1.tgz 8078
 storage/tinybench/tinybench-2.9.0.tgz 13668
+storage/tinydate/tinydate-1.3.0.tgz 3453
 storage/tinyexec/package.json 35843
 storage/tinyexec/tinyexec-0.3.1.tgz 11089
 storage/tinyglobby/package.json 49282
@@ -11108,6 +11123,7 @@ storage/tv4/tv4-1.3.0.tgz 23504
 storage/tween-functions/tween-functions-1.2.0.tgz 2877
 storage/tweetnacl/package.json 96983
 storage/tweetnacl/tweetnacl-0.14.5.tgz 49663
+storage/tweezer.js/tweezer.js-1.5.0.tgz 6285
 storage/twgl.js/package.json 475489
 storage/twgl.js/twgl.js-5.5.4.tgz 276301
 storage/tx2/package.json 9070
@@ -11862,6 +11878,7 @@ storage/yaml/yaml-2.5.1.tgz 110069
 storage/yaml/yaml-2.6.0.tgz 111277
 storage/yaml/yaml-2.6.1.tgz 111383
 storage/yaml/yaml-2.7.0.tgz 111348
+storage/yargonaut/yargonaut-1.1.4.tgz 7621
 storage/yargs-parser/package.json 296947
 storage/yargs-parser/yargs-parser-13.1.2.tgz 15450
 storage/yargs-parser/yargs-parser-18.1.3.tgz 19027
