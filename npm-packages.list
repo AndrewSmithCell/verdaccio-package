@@ -1035,6 +1035,7 @@ storage/@esbuild/win32-ia32/win32-ia32-0.21.5.tgz 4023141
 storage/@esbuild/win32-ia32/win32-ia32-0.24.0.tgz 4155880
 storage/@esbuild/win32-x64/package.json 204569
 storage/@esbuild/win32-x64/win32-x64-0.16.17.tgz 3705689
+storage/@esbuild/win32-x64/win32-x64-0.20.2.tgz 4158860
 storage/@esbuild/win32-x64/win32-x64-0.21.5.tgz 4195965
 storage/@esbuild/win32-x64/win32-x64-0.23.0.tgz 4317679
 storage/@esbuild/win32-x64/win32-x64-0.23.1.tgz 4319416
@@ -2259,6 +2260,7 @@ storage/@rollup/rollup-win32-ia32-msvc/rollup-win32-ia32-msvc-4.24.4.tgz 1004983
 storage/@rollup/rollup-win32-x64-msvc/package.json 221678
 storage/@rollup/rollup-win32-x64-msvc/rollup-win32-x64-msvc-4.21.1.tgz 1192695
 storage/@rollup/rollup-win32-x64-msvc/rollup-win32-x64-msvc-4.21.2.tgz 1188041
+storage/@rollup/rollup-win32-x64-msvc/rollup-win32-x64-msvc-4.22.4.tgz 1177571
 storage/@rollup/rollup-win32-x64-msvc/rollup-win32-x64-msvc-4.24.0.tgz 1177971
 storage/@rollup/rollup-win32-x64-msvc/rollup-win32-x64-msvc-4.24.4.tgz 1183421
 storage/@rollup/rollup-win32-x64-msvc/rollup-win32-x64-msvc-4.29.1.tgz 1175599
@@ -10532,6 +10534,7 @@ storage/sao/sao-2.0.0-beta.1.tgz 346585
 storage/saslprep/saslprep-1.0.3.tgz 14537
 storage/sass-embedded-linux-musl-x64/sass-embedded-linux-musl-x64-1.81.0.tgz 4028643
 storage/sass-embedded-linux-x64/sass-embedded-linux-x64-1.81.0.tgz 3892469
+storage/sass-embedded-win32-x64/sass-embedded-win32-x64-1.81.0.tgz 3737566
 storage/sass-embedded-win32-x64/sass-embedded-win32-x64-1.83.4.tgz 4328645
 storage/sass-embedded/package.json 349484
 storage/sass-embedded/sass-embedded-1.80.6.tgz 147432
