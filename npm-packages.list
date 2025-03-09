@@ -4442,12 +4442,14 @@ storage/cachedir/cachedir-2.3.0.tgz 2561
 storage/cachedir/cachedir-2.4.0.tgz 2631
 storage/cachedir/package.json 34948
 storage/call-bind-apply-helpers/call-bind-apply-helpers-1.0.1.tgz 5643
+storage/call-bind-apply-helpers/call-bind-apply-helpers-1.0.2.tgz 6067
 storage/call-bind/call-bind-1.0.2.tgz 5365
 storage/call-bind/call-bind-1.0.5.tgz 7244
 storage/call-bind/call-bind-1.0.7.tgz 7527
 storage/call-bind/call-bind-1.0.8.tgz 7779
 storage/call-bind/package.json 33886
 storage/call-bound/call-bound-1.0.3.tgz 4911
+storage/call-bound/call-bound-1.0.4.tgz 6382
 storage/call-me-maybe/call-me-maybe-1.0.2.tgz 1950
 storage/call-me-maybe/package.json 12609
 storage/caller-callsite/caller-callsite-2.0.0.tgz 1620
@@ -6493,6 +6495,7 @@ storage/get-intrinsic/get-intrinsic-1.2.2.tgz 12011
 storage/get-intrinsic/get-intrinsic-1.2.4.tgz 12500
 storage/get-intrinsic/get-intrinsic-1.2.6.tgz 13452
 storage/get-intrinsic/get-intrinsic-1.2.7.tgz 13624
+storage/get-intrinsic/get-intrinsic-1.3.0.tgz 13800
 storage/get-intrinsic/package.json 55221
 storage/get-nonce/get-nonce-1.0.1.tgz 2677
 storage/get-own-enumerable-property-symbols/get-own-enumerable-property-symbols-3.0.2.tgz 2273
@@ -8841,6 +8844,7 @@ storage/nodemailer/nodemailer-6.9.16.tgz 114875
 storage/nodemailer/package.json 686847
 storage/nodemon/nodemon-1.19.4.tgz 33728
 storage/nodemon/nodemon-3.1.7.tgz 63654
+storage/nodemon/nodemon-3.1.9.tgz 63289
 storage/nodemon/package.json 809588
 storage/nofilter/nofilter-3.1.0.tgz 10954
 storage/nofilter/package.json 69731
@@ -10164,6 +10168,7 @@ storage/readdirp/readdirp-2.2.1.tgz 7161
 storage/readdirp/readdirp-3.2.0.tgz 7068
 storage/readdirp/readdirp-3.6.0.tgz 7556
 storage/readdirp/readdirp-4.0.2.tgz 7550
+storage/readline-sync/readline-sync-1.4.10.tgz 33267
 storage/readline/package.json 26122
 storage/readline/readline-1.3.0.tgz 736621
 storage/real-require/package.json 10249
@@ -10659,6 +10664,8 @@ storage/setprototypeof/setprototypeof-1.1.0.tgz 1428
 storage/setprototypeof/setprototypeof-1.2.0.tgz 1969
 storage/sha.js/package.json 88192
 storage/sha.js/sha.js-2.4.11.tgz 9975
+storage/shadow-cljs-jar/shadow-cljs-jar-1.3.4.tgz 15490453
+storage/shadow-cljs/shadow-cljs-2.28.20.tgz 59094
 storage/shallow-clone/package.json 31281
 storage/shallow-clone/shallow-clone-3.0.1.tgz 3669
 storage/shallow-compare/package.json 9716
