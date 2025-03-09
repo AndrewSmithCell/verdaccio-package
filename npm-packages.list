@@ -1035,6 +1035,7 @@ storage/@esbuild/linux-x64/linux-x64-0.23.0.tgz 4225568
 storage/@esbuild/linux-x64/linux-x64-0.23.1.tgz 4228040
 storage/@esbuild/linux-x64/linux-x64-0.24.0.tgz 4319546
 storage/@esbuild/linux-x64/linux-x64-0.24.2.tgz 4324454
+storage/@esbuild/linux-x64/linux-x64-0.25.0.tgz 4345762
 storage/@esbuild/linux-x64/package.json 204475
 storage/@esbuild/netbsd-x64/netbsd-x64-0.21.5.tgz 4119987
 storage/@esbuild/netbsd-x64/netbsd-x64-0.24.0.tgz 4300319
@@ -1961,6 +1962,7 @@ storage/@parcel/watcher-linux-arm64-glibc/package.json 30245
 storage/@parcel/watcher-linux-arm64-musl/package.json 30123
 storage/@parcel/watcher-linux-x64-glibc/package.json 30005
 storage/@parcel/watcher-linux-x64-glibc/watcher-linux-x64-glibc-2.5.0.tgz 197961
+storage/@parcel/watcher-linux-x64-glibc/watcher-linux-x64-glibc-2.5.1.tgz 198603
 storage/@parcel/watcher-linux-x64-musl/package.json 29883
 storage/@parcel/watcher-linux-x64-musl/watcher-linux-x64-musl-2.5.0.tgz 193123
 storage/@parcel/watcher-win32-arm64/package.json 26973
@@ -2219,6 +2221,7 @@ storage/@remix-run/web-fetch/web-fetch-4.4.2.tgz 66395
 storage/@remix-run/web-file/web-file-3.1.0.tgz 4919
 storage/@remix-run/web-form-data/web-form-data-3.1.0.tgz 7864
 storage/@remix-run/web-stream/web-stream-1.1.0.tgz 1961
+storage/@resvg/resvg-js-linux-x64-gnu/resvg-js-linux-x64-gnu-2.6.2.tgz 2019767
 storage/@resvg/resvg-js-win32-x64-msvc/resvg-js-win32-x64-msvc-2.6.2.tgz 2012568
 storage/@resvg/resvg-js/resvg-js-2.6.2.tgz 12941
 storage/@rollup/plugin-commonjs/plugin-commonjs-25.0.7.tgz 43502
@@ -2275,6 +2278,7 @@ storage/@rollup/rollup-linux-x64-gnu/rollup-linux-x64-gnu-4.24.0.tgz 1031135
 storage/@rollup/rollup-linux-x64-gnu/rollup-linux-x64-gnu-4.24.4.tgz 1056554
 storage/@rollup/rollup-linux-x64-gnu/rollup-linux-x64-gnu-4.25.0.tgz 1050042
 storage/@rollup/rollup-linux-x64-gnu/rollup-linux-x64-gnu-4.30.1.tgz 1052347
+storage/@rollup/rollup-linux-x64-gnu/rollup-linux-x64-gnu-4.35.0.tgz 1082928
 storage/@rollup/rollup-linux-x64-musl/package.json 222217
 storage/@rollup/rollup-linux-x64-musl/rollup-linux-x64-musl-4.21.2.tgz 1034902
 storage/@rollup/rollup-linux-x64-musl/rollup-linux-x64-musl-4.22.4.tgz 1040558
@@ -2504,6 +2508,7 @@ storage/@swc/core-linux-arm64-gnu/core-linux-arm64-gnu-1.8.0.tgz 15400865
 storage/@swc/core-linux-arm64-gnu/package.json 1602658
 storage/@swc/core-linux-arm64-musl/core-linux-arm64-musl-1.8.0.tgz 18824863
 storage/@swc/core-linux-arm64-musl/package.json 1555641
+storage/@swc/core-linux-x64-gnu/core-linux-x64-gnu-1.11.8.tgz 15686963
 storage/@swc/core-linux-x64-gnu/core-linux-x64-gnu-1.7.22.tgz 17318194
 storage/@swc/core-linux-x64-gnu/core-linux-x64-gnu-1.8.0.tgz 16923816
 storage/@swc/core-linux-x64-gnu/package.json 1590647
@@ -10742,7 +10747,9 @@ storage/sanitize-html/sanitize-html-2.14.0.tgz 19187
 storage/sao/sao-2.0.0-beta.1.tgz 346585
 storage/saslprep/saslprep-1.0.3.tgz 14537
 storage/sass-embedded-linux-musl-x64/sass-embedded-linux-musl-x64-1.81.0.tgz 4028643
+storage/sass-embedded-linux-musl-x64/sass-embedded-linux-musl-x64-1.85.1.tgz 4584561
 storage/sass-embedded-linux-x64/sass-embedded-linux-x64-1.81.0.tgz 3892469
+storage/sass-embedded-linux-x64/sass-embedded-linux-x64-1.85.1.tgz 4442796
 storage/sass-embedded-win32-x64/sass-embedded-win32-x64-1.81.0.tgz 3737566
 storage/sass-embedded-win32-x64/sass-embedded-win32-x64-1.83.4.tgz 4328645
 storage/sass-embedded-win32-x64/sass-embedded-win32-x64-1.85.1.tgz 4334667
