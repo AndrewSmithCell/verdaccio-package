@@ -1811,6 +1811,7 @@ storage/@next/env/env-12.2.5.tgz 3526
 storage/@next/env/env-14.2.16.tgz 4739
 storage/@next/env/env-15.1.4.tgz 4780
 storage/@next/env/env-15.1.6.tgz 4780
+storage/@next/env/env-15.2.2.tgz 4780
 storage/@next/env/package.json 6524270
 storage/@next/eslint-plugin-next/eslint-plugin-next-12.2.5.tgz 11024
 storage/@next/eslint-plugin-next/eslint-plugin-next-15.1.4.tgz 14300
@@ -1844,6 +1845,7 @@ storage/@next/swc-win32-x64-msvc/swc-win32-x64-msvc-12.2.5.tgz 16243429
 storage/@next/swc-win32-x64-msvc/swc-win32-x64-msvc-15.0.2.tgz 56906533
 storage/@next/swc-win32-x64-msvc/swc-win32-x64-msvc-15.1.4.tgz 56832342
 storage/@next/swc-win32-x64-msvc/swc-win32-x64-msvc-15.1.6.tgz 56832739
+storage/@next/swc-win32-x64-msvc/swc-win32-x64-msvc-15.2.2.tgz 45400515
 storage/@ngtools/webpack/package.json 2627415
 storage/@ngtools/webpack/webpack-18.2.9.tgz 29082
 storage/@nicolo-ribaudo/eslint-scope-5-internals/eslint-scope-5-internals-5.1.1-v1.tgz 1069
@@ -4592,6 +4594,7 @@ storage/caniuse-lite/caniuse-lite-1.0.30001692.tgz 331541
 storage/caniuse-lite/caniuse-lite-1.0.30001697.tgz 331844
 storage/caniuse-lite/caniuse-lite-1.0.30001699.tgz 331899
 storage/caniuse-lite/caniuse-lite-1.0.30001703.tgz 330799
+storage/caniuse-lite/caniuse-lite-1.0.30001704.tgz 330818
 storage/caniuse-lite/package.json 2672080
 storage/canonical-path/canonical-path-0.0.2.tgz 1307
 storage/canonical-path/canonical-path-1.0.0.tgz 5183
@@ -5119,6 +5122,7 @@ storage/create-hmac/package.json 26587
 storage/create-jest/create-jest-29.7.0.tgz 5123
 storage/create-jest/package.json 21663
 storage/create-next-app/create-next-app-15.1.4.tgz 192180
+storage/create-next-app/create-next-app-15.2.2.tgz 192477
 storage/create-refine-app/create-refine-app-1.12.9.tgz 26339
 storage/create-require/create-require-1.1.1.tgz 2710
 storage/create-require/package.json 24355
@@ -8863,6 +8867,7 @@ storage/nanoid/nanoid-3.3.4.tgz 5417
 storage/nanoid/nanoid-3.3.6.tgz 5446
 storage/nanoid/nanoid-3.3.7.tgz 5547
 storage/nanoid/nanoid-3.3.8.tgz 12946
+storage/nanoid/nanoid-3.3.9.tgz 12678
 storage/nanoid/nanoid-5.0.7.tgz 4368
 storage/nanoid/nanoid-5.0.9.tgz 4377
 storage/nanoid/package.json 342054
@@ -8914,6 +8919,7 @@ storage/next/next-12.2.5.tgz 6900873
 storage/next/next-14.2.16.tgz 20697249
 storage/next/next-15.1.4.tgz 25324283
 storage/next/next-15.1.6.tgz 25158675
+storage/next/next-15.2.2.tgz 23872591
 storage/next/package.json 27071641
 storage/nextjs-progressbar/nextjs-progressbar-0.0.15.tgz 5305
 storage/nextjs-progressbar/package.json 61560
