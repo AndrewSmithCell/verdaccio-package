@@ -1930,6 +1930,7 @@ storage/@next/swc-linux-x64-gnu/swc-linux-x64-gnu-15.2.2.tgz 46442140
 storage/@next/swc-linux-x64-musl/package.json 4356273
 storage/@next/swc-linux-x64-musl/swc-linux-x64-musl-12.2.5.tgz 14918698
 storage/@next/swc-linux-x64-musl/swc-linux-x64-musl-15.0.2.tgz 55800092
+storage/@next/swc-linux-x64-musl/swc-linux-x64-musl-15.2.2.tgz 46411269
 storage/@next/swc-win32-arm64-msvc/package.json 4380277
 storage/@next/swc-win32-arm64-msvc/swc-win32-arm64-msvc-15.0.2.tgz 35678534
 storage/@next/swc-win32-ia32-msvc/package.json 4164090
@@ -2534,6 +2535,7 @@ storage/@rollup/rollup-linux-x64-musl/rollup-linux-x64-musl-4.21.2.tgz 1034902
 storage/@rollup/rollup-linux-x64-musl/rollup-linux-x64-musl-4.22.4.tgz 1040558
 storage/@rollup/rollup-linux-x64-musl/rollup-linux-x64-musl-4.24.0.tgz 1031075
 storage/@rollup/rollup-linux-x64-musl/rollup-linux-x64-musl-4.24.4.tgz 1051894
+storage/@rollup/rollup-linux-x64-musl/rollup-linux-x64-musl-4.35.0.tgz 1072751
 storage/@rollup/rollup-win32-arm64-msvc/package.json 223668
 storage/@rollup/rollup-win32-arm64-msvc/rollup-win32-arm64-msvc-4.24.0.tgz 1048356
 storage/@rollup/rollup-win32-arm64-msvc/rollup-win32-arm64-msvc-4.24.4.tgz 1043916
