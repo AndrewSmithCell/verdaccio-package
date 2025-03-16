@@ -4599,6 +4599,7 @@ storage/babel-plugin-polyfill-corejs3/package.json 167344
 storage/babel-plugin-polyfill-regenerator/babel-plugin-polyfill-regenerator-0.6.2.tgz 3510
 storage/babel-plugin-polyfill-regenerator/babel-plugin-polyfill-regenerator-0.6.3.tgz 3512
 storage/babel-plugin-polyfill-regenerator/package.json 107265
+storage/babel-plugin-react-compiler/babel-plugin-react-compiler-19.0.0-beta-e552027-20250112.tgz 3226365
 storage/babel-plugin-react-remove-properties/babel-plugin-react-remove-properties-0.3.0.tgz 2123
 storage/babel-plugin-react-remove-properties/package.json 26695
 storage/babel-plugin-remove-graphql-queries/babel-plugin-remove-graphql-queries-3.15.0.tgz 9462
