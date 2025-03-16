@@ -72,3 +72,5 @@ if os.path.exists('.temp/yarn.lock'):
 
 if os.path.exists('.temp/pnpm-lock.yaml'):
     shutil.copyfile('.temp/pnpm-lock.yaml', f'{out_dir}/pnpm-lock.yaml')
+
+shutil.copyfile('npm-packages.list', f'{out_dir}/npm-packages.list')
