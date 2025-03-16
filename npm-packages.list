@@ -2004,23 +2004,29 @@ storage/@notionhq/client/client-0.4.13.tgz 98150
 storage/@notionhq/client/package.json 242021
 storage/@npmcli/agent/agent-2.2.2.tgz 6040
 storage/@npmcli/agent/package.json 32879
+storage/@npmcli/config/config-10.1.0.tgz 38310
 storage/@npmcli/fs/fs-1.1.1.tgz 12531
 storage/@npmcli/fs/fs-2.1.2.tgz 11433
 storage/@npmcli/fs/fs-3.1.1.tgz 8681
 storage/@npmcli/fs/package.json 46608
 storage/@npmcli/git/git-5.0.8.tgz 8974
+storage/@npmcli/git/git-6.0.3.tgz 8940
 storage/@npmcli/git/package.json 126533
 storage/@npmcli/installed-package-contents/installed-package-contents-2.1.0.tgz 4873
 storage/@npmcli/installed-package-contents/package.json 56779
+storage/@npmcli/map-workspaces/map-workspaces-4.0.2.tgz 4197
 storage/@npmcli/move-file/move-file-1.1.2.tgz 2920
 storage/@npmcli/move-file/move-file-2.0.1.tgz 3112
 storage/@npmcli/move-file/package.json 30831
+storage/@npmcli/name-from-folder/name-from-folder-3.0.0.tgz 1477
 storage/@npmcli/node-gyp/node-gyp-3.0.0.tgz 1063
 storage/@npmcli/node-gyp/package.json 24162
 storage/@npmcli/package-json/package-json-5.2.1.tgz 11337
+storage/@npmcli/package-json/package-json-6.1.1.tgz 14053
 storage/@npmcli/package-json/package.json 71628
 storage/@npmcli/promise-spawn/package.json 75717
 storage/@npmcli/promise-spawn/promise-spawn-7.0.2.tgz 5128
+storage/@npmcli/promise-spawn/promise-spawn-8.0.2.tgz 5354
 storage/@npmcli/redact/package.json 19871
 storage/@npmcli/redact/redact-2.0.1.tgz 5257
 storage/@npmcli/run-script/package.json 225476
@@ -4142,6 +4148,7 @@ storage/abab/abab-2.0.6.tgz 4629
 storage/abab/package.json 37317
 storage/abbrev/abbrev-1.1.1.tgz 2301
 storage/abbrev/abbrev-2.0.0.tgz 2365
+storage/abbrev/abbrev-3.0.0.tgz 2405
 storage/abbrev/package.json 21538
 storage/ably/ably-1.2.50.tgz 1878373
 storage/abort-controller/abort-controller-3.0.0.tgz 17548
@@ -5123,6 +5130,7 @@ storage/ci-info/ci-info-3.8.0.tgz 7327
 storage/ci-info/ci-info-3.9.0.tgz 7378
 storage/ci-info/ci-info-4.0.0.tgz 7609
 storage/ci-info/ci-info-4.1.0.tgz 7892
+storage/ci-info/ci-info-4.2.0.tgz 7979
 storage/ci-info/package.json 101513
 storage/ci-parallel-vars/ci-parallel-vars-1.0.1.tgz 2202
 storage/ci-parallel-vars/package.json 8438
@@ -7486,6 +7494,7 @@ storage/hosted-git-info/hosted-git-info-2.8.9.tgz 8110
 storage/hosted-git-info/hosted-git-info-3.0.8.tgz 8195
 storage/hosted-git-info/hosted-git-info-4.1.0.tgz 6805
 storage/hosted-git-info/hosted-git-info-7.0.2.tgz 7485
+storage/hosted-git-info/hosted-git-info-8.0.2.tgz 7542
 storage/hosted-git-info/package.json 202819
 storage/hot-shots/hot-shots-9.3.0.tgz 24921
 storage/hot-shots/package.json 293891
@@ -7695,6 +7704,7 @@ storage/ini/ini-1.3.8.tgz 3998
 storage/ini/ini-2.0.0.tgz 4081
 storage/ini/ini-4.1.1.tgz 5110
 storage/ini/ini-4.1.3.tgz 4912
+storage/ini/ini-5.0.0.tgz 4909
 storage/ini/package.json 69230
 storage/inline-style-parser/inline-style-parser-0.1.1.tgz 8381
 storage/inline-style-parser/package.json 30946
@@ -8277,6 +8287,7 @@ storage/json-parse-better-errors/json-parse-better-errors-1.0.2.tgz 3051
 storage/json-parse-better-errors/package.json 11050
 storage/json-parse-even-better-errors/json-parse-even-better-errors-2.3.1.tgz 4553
 storage/json-parse-even-better-errors/json-parse-even-better-errors-3.0.2.tgz 4488
+storage/json-parse-even-better-errors/json-parse-even-better-errors-4.0.0.tgz 4483
 storage/json-parse-even-better-errors/package.json 39318
 storage/json-rpc-engine/json-rpc-engine-5.4.0.tgz 6316
 storage/json-rpc-engine/json-rpc-engine-6.1.0.tgz 13928
@@ -9565,6 +9576,7 @@ storage/nopt/nopt-1.0.10.tgz 10240
 storage/nopt/nopt-5.0.0.tgz 9343
 storage/nopt/nopt-6.0.0.tgz 8578
 storage/nopt/nopt-7.2.1.tgz 9355
+storage/nopt/nopt-8.1.0.tgz 9865
 storage/nopt/package.json 84815
 storage/normalize-node-version/normalize-node-version-11.0.0.tgz 8132
 storage/normalize-node-version/package.json 180922
@@ -9597,13 +9609,17 @@ storage/npm-bundled/npm-bundled-3.0.1.tgz 3995
 storage/npm-bundled/package.json 48028
 storage/npm-check-updates/npm-check-updates-17.1.12.tgz 1495485
 storage/npm-install-checks/npm-install-checks-6.3.0.tgz 2818
+storage/npm-install-checks/npm-install-checks-7.1.1.tgz 4404
 storage/npm-install-checks/package.json 67497
 storage/npm-normalize-package-bin/npm-normalize-package-bin-3.0.1.tgz 1840
+storage/npm-normalize-package-bin/npm-normalize-package-bin-4.0.0.tgz 1874
 storage/npm-normalize-package-bin/package.json 23400
 storage/npm-package-arg/npm-package-arg-11.0.3.tgz 6948
+storage/npm-package-arg/npm-package-arg-12.0.2.tgz 8010
 storage/npm-package-arg/package.json 152414
 storage/npm-packlist/npm-packlist-8.0.2.tgz 7939
 storage/npm-packlist/package.json 225055
+storage/npm-pick-manifest/npm-pick-manifest-10.0.0.tgz 5867
 storage/npm-pick-manifest/npm-pick-manifest-9.1.0.tgz 5855
 storage/npm-pick-manifest/package.json 117054
 storage/npm-registry-fetch/npm-registry-fetch-17.1.0.tgz 14219
@@ -10476,6 +10492,7 @@ storage/probe-image-size/probe-image-size-6.0.0.tgz 12243
 storage/proc-log/package.json 33908
 storage/proc-log/proc-log-2.0.1.tgz 2502
 storage/proc-log/proc-log-4.2.0.tgz 3991
+storage/proc-log/proc-log-5.0.0.tgz 3989
 storage/process-nextick-args/package.json 20367
 storage/process-nextick-args/process-nextick-args-2.0.1.tgz 1654
 storage/process-on-spawn/process-on-spawn-1.1.0.tgz 3608
@@ -12784,6 +12801,7 @@ storage/validate-npm-package-name/package.json 43981
 storage/validate-npm-package-name/validate-npm-package-name-3.0.0.tgz 5371
 storage/validate-npm-package-name/validate-npm-package-name-4.0.0.tgz 3193
 storage/validate-npm-package-name/validate-npm-package-name-5.0.1.tgz 3194
+storage/validate-npm-package-name/validate-npm-package-name-6.0.0.tgz 3197
 storage/validate.js/package.json 50531
 storage/validate.js/validate.js-0.12.0.tgz 460119
 storage/validator/package.json 581188
@@ -12921,6 +12939,7 @@ storage/wait-port/wait-port-0.2.14.tgz 12176
 storage/wait-port/wait-port-1.0.4.tgz 11870
 storage/walk-sync/walk-sync-2.2.0.tgz 5454
 storage/walk-up-path/walk-up-path-3.0.1.tgz 2492
+storage/walk-up-path/walk-up-path-4.0.0.tgz 2495
 storage/walker/package.json 21054
 storage/walker/walker-1.0.8.tgz 2227
 storage/warn-once/warn-once-0.1.1.tgz 1543
@@ -13057,6 +13076,7 @@ storage/which/which-1.2.4.tgz 4519
 storage/which/which-1.3.1.tgz 4174
 storage/which/which-2.0.2.tgz 4496
 storage/which/which-4.0.0.tgz 3322
+storage/which/which-5.0.0.tgz 3346
 storage/why-is-node-running/package.json 62132
 storage/why-is-node-running/why-is-node-running-2.2.2.tgz 3203
 storage/why-is-node-running/why-is-node-running-2.3.0.tgz 3205
