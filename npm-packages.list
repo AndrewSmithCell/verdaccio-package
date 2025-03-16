@@ -1955,11 +1955,13 @@ storage/@next/swc-linux-arm64-musl/swc-linux-arm64-musl-15.0.2.tgz 51552317
 storage/@next/swc-linux-x64-gnu/package.json 4678694
 storage/@next/swc-linux-x64-gnu/swc-linux-x64-gnu-12.2.5.tgz 16021459
 storage/@next/swc-linux-x64-gnu/swc-linux-x64-gnu-14.2.16.tgz 41910029
+storage/@next/swc-linux-x64-gnu/swc-linux-x64-gnu-14.2.24.tgz 41909132
 storage/@next/swc-linux-x64-gnu/swc-linux-x64-gnu-15.1.4.tgz 46394044
 storage/@next/swc-linux-x64-gnu/swc-linux-x64-gnu-15.1.6.tgz 46394440
 storage/@next/swc-linux-x64-gnu/swc-linux-x64-gnu-15.2.2.tgz 46442140
 storage/@next/swc-linux-x64-musl/package.json 4356273
 storage/@next/swc-linux-x64-musl/swc-linux-x64-musl-12.2.5.tgz 14918698
+storage/@next/swc-linux-x64-musl/swc-linux-x64-musl-14.2.24.tgz 50269333
 storage/@next/swc-linux-x64-musl/swc-linux-x64-musl-15.0.2.tgz 55800092
 storage/@next/swc-linux-x64-musl/swc-linux-x64-musl-15.2.2.tgz 46411269
 storage/@next/swc-win32-arm64-msvc/package.json 4380277
