@@ -1963,6 +1963,7 @@ storage/@next/swc-linux-x64-musl/package.json 4356273
 storage/@next/swc-linux-x64-musl/swc-linux-x64-musl-12.2.5.tgz 14918698
 storage/@next/swc-linux-x64-musl/swc-linux-x64-musl-14.2.24.tgz 50269333
 storage/@next/swc-linux-x64-musl/swc-linux-x64-musl-15.0.2.tgz 55800092
+storage/@next/swc-linux-x64-musl/swc-linux-x64-musl-15.1.6.tgz 55903551
 storage/@next/swc-linux-x64-musl/swc-linux-x64-musl-15.2.2.tgz 46411269
 storage/@next/swc-win32-arm64-msvc/package.json 4380277
 storage/@next/swc-win32-arm64-msvc/swc-win32-arm64-msvc-15.0.2.tgz 35678534
@@ -2857,6 +2858,7 @@ storage/@swc/core-linux-x64-gnu/core-linux-x64-gnu-1.11.9.tgz 15683635
 storage/@swc/core-linux-x64-gnu/core-linux-x64-gnu-1.7.22.tgz 17318194
 storage/@swc/core-linux-x64-gnu/core-linux-x64-gnu-1.8.0.tgz 16923816
 storage/@swc/core-linux-x64-gnu/package.json 1590647
+storage/@swc/core-linux-x64-musl/core-linux-x64-musl-1.11.9.tgz 19810574
 storage/@swc/core-linux-x64-musl/core-linux-x64-musl-1.7.22.tgz 21131835
 storage/@swc/core-linux-x64-musl/core-linux-x64-musl-1.8.0.tgz 20735833
 storage/@swc/core-linux-x64-musl/package.json 1595527
