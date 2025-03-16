@@ -3782,6 +3782,7 @@ storage/@ungap/structured-clone/structured-clone-1.2.0.tgz 7054
 storage/@ungap/structured-clone/structured-clone-1.2.1.tgz 7069
 storage/@ungap/structured-clone/structured-clone-1.3.0.tgz 7266
 storage/@ungap/with-resolvers/with-resolvers-0.1.0.tgz 743
+storage/@unrs/rspack-resolver-binding-win32-x64-msvc/rspack-resolver-binding-win32-x64-msvc-1.1.0.tgz 990100
 storage/@urql/core/core-5.1.0.tgz 257682
 storage/@vee-validate/zod/package.json 350681
 storage/@vee-validate/zod/zod-4.14.3.tgz 6114
@@ -6386,6 +6387,7 @@ storage/eslint-plugin-graphql/eslint-plugin-graphql-4.0.0.tgz 57564
 storage/eslint-plugin-graphql/package.json 142527
 storage/eslint-plugin-html/eslint-plugin-html-6.2.0.tgz 12594
 storage/eslint-plugin-html/package.json 164558
+storage/eslint-plugin-import-x/eslint-plugin-import-x-4.7.2.tgz 131862
 storage/eslint-plugin-import-x/package.json 173834
 storage/eslint-plugin-import/eslint-plugin-import-2.26.0.tgz 308761
 storage/eslint-plugin-import/eslint-plugin-import-2.29.1.tgz 351998
@@ -11266,6 +11268,7 @@ storage/rope-sequence/rope-sequence-1.3.4.tgz 5305
 storage/rrweb-cssom/rrweb-cssom-0.6.0.tgz 12270
 storage/rrweb-cssom/rrweb-cssom-0.7.1.tgz 20038
 storage/rrweb-cssom/rrweb-cssom-0.8.0.tgz 20726
+storage/rspack-resolver/rspack-resolver-1.1.0.tgz 4876
 storage/rsvp/rsvp-3.2.1.tgz 49586
 storage/rsvp/rsvp-4.8.5.tgz 140508
 storage/rtl-css-js/package.json 134246
