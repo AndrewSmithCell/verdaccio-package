@@ -1879,6 +1879,8 @@ storage/@mui/x-tree-view/x-tree-view-7.26.0.tgz 146565
 storage/@nanostores/react/react-0.8.4.tgz 2507
 storage/@napi-rs/image-win32-x64-msvc/image-win32-x64-msvc-1.9.2.tgz 7220207
 storage/@napi-rs/image/image-1.9.2.tgz 11317
+storage/@napi-rs/nice-linux-x64-gnu/nice-linux-x64-gnu-1.0.1.tgz 188946
+storage/@napi-rs/nice-linux-x64-musl/nice-linux-x64-musl-1.0.1.tgz 198259
 storage/@napi-rs/nice-win32-x64-msvc/nice-win32-x64-msvc-1.0.1.tgz 105474
 storage/@napi-rs/nice/nice-1.0.1.tgz 5057
 storage/@napi-rs/wasm-runtime/wasm-runtime-0.2.4.tgz 962011
@@ -2069,6 +2071,8 @@ storage/@npmcli/run-script/run-script-8.1.0.tgz 7364
 storage/@nuxtjs/opencollective/opencollective-0.3.2.tgz 7422
 storage/@nuxtjs/opencollective/package.json 27871
 storage/@nx/devkit/devkit-20.6.0.tgz 50342
+storage/@nx/nx-linux-x64-gnu/nx-linux-x64-gnu-20.6.0.tgz 4003337
+storage/@nx/nx-linux-x64-musl/nx-linux-x64-musl-20.6.0.tgz 4018803
 storage/@nx/nx-win32-x64-msvc/nx-win32-x64-msvc-20.6.0.tgz 3718547
 storage/@octokit/auth-token/auth-token-2.5.0.tgz 6902
 storage/@octokit/auth-token/auth-token-3.0.1.tgz 6900
