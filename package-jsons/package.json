@@ -37,6 +37,9 @@
     "@mui/joy": "latest",
     "@mui/lab": "latest",
     "@mui/material": "latest",
+    "@mui/material-pigment-css": "latest",
+    "@mui/material-nextjs": "latest",
+    "@mui/private-theming": "latest",
     "@mui/styled-engine": "latest",
     "@mui/styled-engine-sc": "latest",
     "@mui/styles": "latest",
@@ -109,7 +112,14 @@
     "stylis": "4.2.0",
     "stylis-plugin-rtl": "^2.1.1",
     "use-count-up": "^3.0.1",
-    "webpack-bundle-analyzer": "^4.10.2"
+    "webpack-bundle-analyzer": "^4.10.2",
+    "netlify-plugin-cache-docs": "latest",
+    "eslint-plugin-material-ui": "latest",
+    "@mui/internal-babel-plugin-minify-errors": "latest",
+    "@mui/internal-babel-plugin-resolve-imports": "latest",
+    "@mui/internal-docs-utils": "latest",
+    "@mui/internal-test-utils": "latest",
+    "@mui/internal-scripts": "latest"
   },
   "devDependencies": {
     "@babel/plugin-transform-react-constant-elements": "^7.25.9",
