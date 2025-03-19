@@ -3435,6 +3435,7 @@ storage/@types/jest/jest-29.5.10.tgz 17404
 storage/@types/jest/jest-29.5.14.tgz 17472
 storage/@types/jest/package.json 912677
 storage/@types/js-cookie/js-cookie-3.0.6.tgz 3026
+storage/@types/jscodeshift/jscodeshift-0.12.0.tgz 8571
 storage/@types/jsdom/jsdom-20.0.1.tgz 6461
 storage/@types/jsdom/package.json 150461
 storage/@types/json-patch/json-patch-0.0.30.tgz 1719
@@ -6112,6 +6113,7 @@ storage/depd/depd-2.0.0.tgz 8374
 storage/depd/package.json 48949
 storage/dependency-graph/dependency-graph-0.11.0.tgz 8624
 storage/dependency-graph/dependency-graph-0.7.2.tgz 6445
+storage/dependency-graph/dependency-graph-1.0.0.tgz 9333
 storage/dependency-graph/package.json 51561
 storage/deprecation/deprecation-2.3.1.tgz 1867
 storage/deprecation/package.json 23021
@@ -8528,6 +8530,8 @@ storage/jsc-android/jsc-android-250231.0.0.tgz 32048596
 storage/jsc-android/package.json 86839
 storage/jsc-safe-url/jsc-safe-url-0.2.4.tgz 2771
 storage/jsc-safe-url/package.json 16771
+storage/jscodeshift-add-imports/jscodeshift-add-imports-1.0.11.tgz 155572
+storage/jscodeshift-find-imports/jscodeshift-find-imports-2.0.5.tgz 148016
 storage/jscodeshift/jscodeshift-0.14.0.tgz 35427
 storage/jscodeshift/jscodeshift-0.15.2.tgz 37166
 storage/jscodeshift/jscodeshift-17.1.2.tgz 156390
@@ -10593,6 +10597,7 @@ storage/postcss-clean/postcss-clean-1.2.2.tgz 6981
 storage/postcss-cli/package.json 179095
 storage/postcss-cli/postcss-cli-10.1.0.tgz 7390
 storage/postcss-cli/postcss-cli-11.0.0.tgz 7386
+storage/postcss-cli/postcss-cli-11.0.1.tgz 7463
 storage/postcss-colormin/package.json 225747
 storage/postcss-colormin/postcss-colormin-2.2.2.tgz 3824
 storage/postcss-colormin/postcss-colormin-5.3.1.tgz 3508
@@ -11374,6 +11379,7 @@ storage/real-require/package.json 10249
 storage/real-require/real-require-0.1.0.tgz 2428
 storage/real-require/real-require-0.2.0.tgz 2382
 storage/recast/package.json 687113
+storage/recast/recast-0.20.5.tgz 52292
 storage/recast/recast-0.21.5.tgz 53956
 storage/recast/recast-0.23.11.tgz 53707
 storage/recast/recast-0.23.9.tgz 53549
