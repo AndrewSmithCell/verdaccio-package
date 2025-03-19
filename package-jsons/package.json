@@ -37,7 +37,15 @@
     "jscodeshift-add-imports": "^1.0.11",
     "postcss": "^8.5.3",
     "postcss-cli": "^11.0.1",
-    "yargs": "^17.7.2"
+    "yargs": "^17.7.2",
+    "create-toolpad-app": "latest",
+    "eslint-plugin-material-ui": "latest",
+    "@toolpad/core": "latest",
+    "@toolpad/studio": "latest",
+    "@muyajs/core": "latest",
+    "react-ace": "latest",
+    "ace-builds": "latest",
+    "nextra": "latest"
   },
   "devDependencies": {
     "@types/chai": "^4.3.20",
