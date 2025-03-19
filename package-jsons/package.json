@@ -113,7 +113,6 @@
     "stylis-plugin-rtl": "^2.1.1",
     "use-count-up": "^3.0.1",
     "webpack-bundle-analyzer": "^4.10.2",
-    "netlify-plugin-cache-docs": "latest",
     "eslint-plugin-material-ui": "latest",
     "@mui/internal-babel-plugin-minify-errors": "latest",
     "@mui/internal-babel-plugin-resolve-imports": "latest",
