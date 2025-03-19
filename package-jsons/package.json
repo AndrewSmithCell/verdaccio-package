@@ -1,40 +1,55 @@
 {
-  "name": "@mui-internal/api-docs-builder",
-  "version": "1.0.0",
-  "private": "true",
-  "main": "./index.ts",
+  "name": "@mui/codemod",
+  "version": "7.0.0-beta.4",
+  "bin": "./codemod.js",
+  "private": false,
+  "author": "MUI Team",
+  "description": "Codemod scripts for MUI.",
+  "keywords": [
+    "react",
+    "react-component",
+    "mui",
+    "codemod",
+    "jscodeshift"
+  ],
   "scripts": {
-    "test": "cd ../../ && cross-env NODE_ENV=test mocha 'packages/api-docs-builder/**/*.test.?(c|m)[jt]s?(x)'",
-    "typescript": "tsc -p tsconfig.json"
+    "test": "cd ../../ && cross-env NODE_ENV=test mocha 'packages/mui-codemod/**/*.test.?(c|m)[jt]s?(x)'",
+    "prebuild": "rimraf build",
+    "build": "node ../../scripts/build.mjs node --out-dir ./build && cpy README.md build && cpy package.json build && cpy codemod.js build",
+    "release": "pnpm build && pnpm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mui/material-ui.git",
+    "directory": "packages/mui-codemod"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/mui/material-ui/tree/master/packages/mui-codemod",
+  "funding": {
+    "type": "opencollective",
+    "url": "https://opencollective.com/mui-org"
   },
   "dependencies": {
     "@babel/core": "^7.26.9",
-    "@babel/preset-typescript": "^7.26.0",
+    "@babel/runtime": "^7.26.9",
     "@babel/traverse": "^7.26.9",
-    "@mui/internal-docs-utils": "latest",
-    "@mui/internal-markdown": "latest",
-    "ast-types": "^0.14.2",
-    "doctrine": "^3.0.0",
-    "fast-glob": "^3.3.3",
-    "fs-extra": "^11.3.0",
-    "lodash": "^4.17.21",
-    "prettier": "^3.5.3",
-    "react-docgen": "^5.4.3",
-    "recast": "^0.23.9",
-    "remark": "^15.0.1",
-    "typescript": "^5.7.3",
-    "unist-util-visit": "^5.0.0"
+    "jscodeshift": "^17.1.2",
+    "jscodeshift-add-imports": "^1.0.11",
+    "postcss": "^8.5.3",
+    "postcss-cli": "^11.0.1",
+    "yargs": "^17.7.2"
   },
   "devDependencies": {
-    "@types/babel__core": "^7.20.5",
-    "@types/babel__traverse": "^7.20.6",
     "@types/chai": "^4.3.20",
-    "@types/doctrine": "^0.0.9",
-    "@types/mdast": "4.0.4",
-    "@types/mocha": "^10.0.10",
-    "@types/node": "^20.17.24",
-    "@types/sinon": "^17.0.4",
-    "chai": "^4.5.0",
-    "sinon": "^19.0.2"
+    "@types/jscodeshift": "0.12.0",
+    "chai": "^4.5.0"
+  },
+  "sideEffects": false,
+  "publishConfig": {
+    "access": "public",
+    "directory": "build"
+  },
+  "engines": {
+    "node": ">=14.0.0"
   }
 }
