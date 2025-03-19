@@ -1942,6 +1942,8 @@ storage/@napi-rs/nice-linux-x64-gnu/nice-linux-x64-gnu-1.0.1.tgz 188946
 storage/@napi-rs/nice-linux-x64-musl/nice-linux-x64-musl-1.0.1.tgz 198259
 storage/@napi-rs/nice-win32-x64-msvc/nice-win32-x64-msvc-1.0.1.tgz 105474
 storage/@napi-rs/nice/nice-1.0.1.tgz 5057
+storage/@napi-rs/simple-git-linux-x64-gnu/simple-git-linux-x64-gnu-0.1.19.tgz 2882811
+storage/@napi-rs/simple-git-linux-x64-musl/simple-git-linux-x64-musl-0.1.19.tgz 2870185
 storage/@napi-rs/simple-git-win32-x64-msvc/simple-git-win32-x64-msvc-0.1.19.tgz 1267829
 storage/@napi-rs/simple-git/simple-git-0.1.19.tgz 15007
 storage/@napi-rs/wasm-runtime/wasm-runtime-0.2.4.tgz 962011
