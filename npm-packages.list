@@ -3678,7 +3678,9 @@ storage/@types/serve-static/serve-static-1.15.7.tgz 3213
 storage/@types/shimmer/shimmer-1.2.0.tgz 1697
 storage/@types/simplebar/package.json 45909
 storage/@types/simplebar/simplebar-5.3.3.tgz 1081
+storage/@types/sinon/sinon-17.0.4.tgz 16139
 storage/@types/sinonjs__fake-timers/sinonjs__fake-timers-8.1.1.tgz 4564
+storage/@types/sinonjs__fake-timers/sinonjs__fake-timers-8.1.5.tgz 4532
 storage/@types/sizzle/sizzle-2.3.8.tgz 2091
 storage/@types/sizzle/sizzle-2.3.9.tgz 2107
 storage/@types/socket.io-client/package.json 46760
