@@ -26,7 +26,7 @@ jobs:
         pnpm i -g verdaccio
         git config user.name github-actions
         git config user.email github-actions@github.com
-        verdaccio & (mkdir -p .temp && cd .temp && bash ../yarn-install.sh && cd .. && bash ./npm-make-registry.sh)
+        verdaccio & (mkdir -p .temp && cd .temp && bash ../npm-install.sh && cd .. && bash ./npm-make-registry.sh)
     - name: Archive Release packages
       shell: bash
       run: |
@@ -60,7 +60,7 @@ jobs:
         pnpm i -g verdaccio
         git config user.name github-actions
         git config user.email github-actions@github.com
-        verdaccio & (mkdir -p .temp && cd .temp && bash ../yarn-install.sh && cd .. && bash ./npm-make-registry.sh)
+        verdaccio & (mkdir -p .temp && cd .temp && bash ../npm-install.sh && cd .. && bash ./npm-make-registry.sh)
     - name: Archive Release packages
       shell: bash
       run: |
