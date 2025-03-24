@@ -1355,6 +1355,7 @@ storage/@esbuild/linux-riscv64/package.json 208110
 storage/@esbuild/linux-s390x/linux-s390x-0.21.5.tgz 3990163
 storage/@esbuild/linux-s390x/linux-s390x-0.24.0.tgz 4155111
 storage/@esbuild/linux-s390x/package.json 207440
+storage/@esbuild/linux-x64/linux-x64-0.17.6.tgz 3773890
 storage/@esbuild/linux-x64/linux-x64-0.20.2.tgz 4091807
 storage/@esbuild/linux-x64/linux-x64-0.21.5.tgz 4129742
 storage/@esbuild/linux-x64/linux-x64-0.23.0.tgz 4225568
@@ -2517,6 +2518,7 @@ storage/@next/swc-linux-x64-gnu/swc-linux-x64-gnu-15.1.4.tgz 46394044
 storage/@next/swc-linux-x64-gnu/swc-linux-x64-gnu-15.1.6.tgz 46394440
 storage/@next/swc-linux-x64-gnu/swc-linux-x64-gnu-15.2.2.tgz 46442140
 storage/@next/swc-linux-x64-gnu/swc-linux-x64-gnu-15.2.3.tgz 46442124
+storage/@next/swc-linux-x64-gnu/swc-linux-x64-gnu-15.2.4.tgz 46442124
 storage/@next/swc-linux-x64-musl/package.json 4356273
 storage/@next/swc-linux-x64-musl/swc-linux-x64-musl-12.2.5.tgz 14918698
 storage/@next/swc-linux-x64-musl/swc-linux-x64-musl-14.2.24.tgz 50269333
