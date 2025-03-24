@@ -1,5 +1,5 @@
 rm package.json
 rm package-lock.json
-cp -f ../package-jsons/package.json package.json
+# cp -f ../package-jsons/package.json package.json
 # cp -f ../package-jsons/package-lock.json package-lock.json
-NPM_CONFIG_REGISTRY=http://localhost:4873 npm install --force
+NPM_CONFIG_REGISTRY=http://localhost:4873 npm install formik-mui formik-mui-x-date-pickers mui-treasury remix create-remix @remix-run/node @remix-run/react @remix-run/serve isbot@4 @remix-run/dev zustand @tanstack/react-query @vanilla-extract/css @vanilla-extract/next-plugin @floating-ui/react @loadable/component recharts react-is @formatjs/cli @formatjs/cli-lib @formatjs/icu-messageformat-parser @formatjs/intl-datetimeformat @formatjs/intl-displaynames @formatjs/intl-getcanonicallocales @formatjs/intl-listformat @formatjs/intl-locale @formatjs/intl-localematcher @formatjs/intl-numberformat @formatjs/intl-pluralrules @formatjs/intl-relativetimeformat @formatjs/intl-segmenter @formatjs/intl @formatjs/ts-transformer babel-plugin-formatjs eslint-plugin-formatjs intl-messageformat react-intl @formatjs/utils react-spring @react-hookz/web ahooks slate slate-react --force --save
