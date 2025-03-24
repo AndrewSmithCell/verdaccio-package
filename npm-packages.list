@@ -1880,6 +1880,8 @@ storage/@lmdb/lmdb-darwin-arm64/package.json 220536
 storage/@lmdb/lmdb-darwin-x64/package.json 218624
 storage/@lmdb/lmdb-linux-arm/package.json 219670
 storage/@lmdb/lmdb-linux-arm64/package.json 221683
+storage/@lmdb/lmdb-linux-x64/lmdb-linux-x64-2.5.2.tgz 2271512
+storage/@lmdb/lmdb-linux-x64/lmdb-linux-x64-2.5.3.tgz 2828960
 storage/@lmdb/lmdb-linux-x64/lmdb-linux-x64-3.0.13.tgz 5067128
 storage/@lmdb/lmdb-linux-x64/package.json 221856
 storage/@lmdb/lmdb-win32-x64/lmdb-win32-x64-2.5.2.tgz 925501
@@ -2539,6 +2541,7 @@ storage/@parcel/watcher-linux-x64-glibc/watcher-linux-x64-glibc-2.5.0.tgz 197961
 storage/@parcel/watcher-linux-x64-glibc/watcher-linux-x64-glibc-2.5.1.tgz 198603
 storage/@parcel/watcher-linux-x64-musl/package.json 29883
 storage/@parcel/watcher-linux-x64-musl/watcher-linux-x64-musl-2.5.0.tgz 193123
+storage/@parcel/watcher-linux-x64-musl/watcher-linux-x64-musl-2.5.1.tgz 193448
 storage/@parcel/watcher-win32-arm64/package.json 26973
 storage/@parcel/watcher-win32-ia32/package.json 20270
 storage/@parcel/watcher-win32-x64/package.json 29055
@@ -3770,6 +3773,7 @@ storage/@types/estree/estree-0.0.46.tgz 5489
 storage/@types/estree/estree-0.0.51.tgz 5645
 storage/@types/estree/estree-1.0.5.tgz 5850
 storage/@types/estree/estree-1.0.6.tgz 5883
+storage/@types/estree/estree-1.0.7.tgz 5919
 storage/@types/estree/package.json 90406
 storage/@types/events/events-3.0.3.tgz 1797
 storage/@types/events/package.json 13693
