@@ -7679,6 +7679,7 @@ storage/ecdsa-sig-formatter/package.json 29696
 storage/editorconfig/editorconfig-1.0.4.tgz 9887
 storage/ee-first/ee-first-1.1.1.tgz 2733
 storage/ee-first/package.json 19035
+storage/ejs/ejs-2.6.1.tgz 35745
 storage/ejs/ejs-3.1.10.tgz 42688
 storage/ejs/package.json 178662
 storage/electron-builder-squirrel-windows/electron-builder-squirrel-windows-24.13.3.tgz 14483
@@ -8294,6 +8295,7 @@ storage/exponential-backoff/exponential-backoff-3.1.1.tgz 11171
 storage/exponential-backoff/exponential-backoff-3.1.2.tgz 15150
 storage/exponential-backoff/package.json 62030
 storage/expr-eval-fork/expr-eval-fork-2.0.2.tgz 35024
+storage/express-generator/express-generator-4.16.1.tgz 9428
 storage/express-graphql/express-graphql-0.12.0.tgz 277902
 storage/express-graphql/package.json 176191
 storage/express-http-proxy/express-http-proxy-1.6.3.tgz 27891
@@ -9364,6 +9366,8 @@ storage/hey-listen/hey-listen-1.0.8.tgz 3823
 storage/hey-listen/package.json 35840
 storage/hicat/hicat-0.8.0.tgz 9146
 storage/hicat/package.json 30832
+storage/highcharts-react-official/highcharts-react-official-3.2.1.tgz 54761
+storage/highcharts/highcharts-12.1.2.tgz 9951735
 storage/highlight.js/highlight.js-10.7.3.tgz 467893
 storage/highlight.js/highlight.js-11.10.0.tgz 826369
 storage/highlight.js/highlight.js-11.11.1.tgz 838069
@@ -11523,6 +11527,7 @@ storage/minimatch/minimatch-9.0.5.tgz 96471
 storage/minimatch/package.json 369260
 storage/minimist-options/minimist-options-4.1.0.tgz 3472
 storage/minimist-options/package.json 32576
+storage/minimist/minimist-0.0.8.tgz 5990
 storage/minimist/minimist-1.2.7.tgz 14468
 storage/minimist/minimist-1.2.8.tgz 15520
 storage/minimist/package.json 83368
@@ -11562,6 +11567,7 @@ storage/mj-context-menu/mj-context-menu-0.6.1.tgz 51260
 storage/mkdirp-classic/mkdirp-classic-0.5.3.tgz 1953
 storage/mkdirp-classic/package.json 6405
 storage/mkdirp/mkdirp-0.3.0.tgz 3760
+storage/mkdirp/mkdirp-0.5.1.tgz 4991
 storage/mkdirp/mkdirp-0.5.5.tgz 3018
 storage/mkdirp/mkdirp-0.5.6.tgz 3018
 storage/mkdirp/mkdirp-1.0.4.tgz 6665
@@ -14383,6 +14389,7 @@ storage/sort-package-json/sort-package-json-1.57.0.tgz 7528
 storage/sort-package-json/sort-package-json-3.0.0.tgz 25969
 storage/sortablejs/sortablejs-1.15.2.tgz 134273
 storage/sortablejs/sortablejs-1.15.6.tgz 154705
+storage/sorted-object/sorted-object-2.0.1.tgz 1539
 storage/source-list-map/package.json 35453
 storage/source-list-map/source-list-map-1.1.2.tgz 6802
 storage/source-list-map/source-list-map-2.0.1.tgz 7148
