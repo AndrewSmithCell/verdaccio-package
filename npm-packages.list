@@ -3908,6 +3908,7 @@ storage/@swc/core-linux-arm64-gnu/core-linux-arm64-gnu-1.8.0.tgz 15400865
 storage/@swc/core-linux-arm64-gnu/package.json 1602658
 storage/@swc/core-linux-arm64-musl/core-linux-arm64-musl-1.8.0.tgz 18824863
 storage/@swc/core-linux-arm64-musl/package.json 1555641
+storage/@swc/core-linux-x64-gnu/core-linux-x64-gnu-1.10.12.tgz 16734597
 storage/@swc/core-linux-x64-gnu/core-linux-x64-gnu-1.11.8.tgz 15686963
 storage/@swc/core-linux-x64-gnu/core-linux-x64-gnu-1.11.9.tgz 15683635
 storage/@swc/core-linux-x64-gnu/core-linux-x64-gnu-1.7.22.tgz 17318194
