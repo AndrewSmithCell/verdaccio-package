@@ -2081,8 +2081,10 @@ storage/@iarna/toml/toml-2.2.5.tgz 23412
 storage/@iconify/types/types-2.0.0.tgz 8876
 storage/@iconify/utils/utils-2.3.0.tgz 118987
 storage/@img/sharp-libvips-linux-x64/sharp-libvips-linux-x64-1.0.4.tgz 7061492
+storage/@img/sharp-libvips-linux-x64/sharp-libvips-linux-x64-1.1.0.tgz 7399514
 storage/@img/sharp-libvips-linuxmusl-x64/sharp-libvips-linuxmusl-x64-1.0.4.tgz 7197480
 storage/@img/sharp-linux-x64/sharp-linux-x64-0.33.5.tgz 113706
+storage/@img/sharp-linux-x64/sharp-linux-x64-0.34.1.tgz 183587
 storage/@img/sharp-linuxmusl-x64/sharp-linuxmusl-x64-0.33.5.tgz 117649
 storage/@img/sharp-win32-x64/sharp-win32-x64-0.33.5.tgz 8181067
 storage/@img/sharp-win32-x64/sharp-win32-x64-0.34.1.tgz 8447482
@@ -2775,6 +2777,7 @@ storage/@next/swc-linux-x64-gnu/swc-linux-x64-gnu-15.1.6.tgz 46394440
 storage/@next/swc-linux-x64-gnu/swc-linux-x64-gnu-15.2.2.tgz 46442140
 storage/@next/swc-linux-x64-gnu/swc-linux-x64-gnu-15.2.3.tgz 46442124
 storage/@next/swc-linux-x64-gnu/swc-linux-x64-gnu-15.2.4.tgz 46442124
+storage/@next/swc-linux-x64-gnu/swc-linux-x64-gnu-15.3.1.tgz 47932402
 storage/@next/swc-linux-x64-musl/package.json 4356273
 storage/@next/swc-linux-x64-musl/swc-linux-x64-musl-12.2.5.tgz 14918698
 storage/@next/swc-linux-x64-musl/swc-linux-x64-musl-14.2.24.tgz 50269333
