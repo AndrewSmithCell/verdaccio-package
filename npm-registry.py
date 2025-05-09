@@ -40,7 +40,7 @@ for (dirpath, dirnames, filenames) in os.walk(packages_dir):
     if len(filenames) == 1:
         peers.append(dirpath)
 
-with open(".tmp/peers.list", "w", encoding='utf-8') as f:
+with open(".temp/peers.list", "w", encoding='utf-8') as f:
     f.write("\n".join(peers))
 
 to_write = []            
@@ -77,7 +77,7 @@ if os.path.exists('.temp/yarn.lock'):
 if os.path.exists('.temp/pnpm-lock.yaml'):
     shutil.copyfile('.temp/pnpm-lock.yaml', f'{out_dir}/pnpm-lock.yaml')
 
-if os.path.exists('.tmp/peers.list'):
+if os.path.exists('.temp/peers.list'):
     shutil.copyfile('.tmp/peers.list', f'{out_dir}/peers.list')
 
 shutil.copyfile('npm-packages.list', f'{out_dir}/npm-packages.list')
