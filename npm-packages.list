@@ -4788,7 +4788,7 @@ storage/@types/prismjs/prismjs-1.26.0.tgz 6353
 storage/@types/prismjs/prismjs-1.26.3.tgz 6291
 storage/@types/prismjs/prismjs-1.26.4.tgz 6292
 storage/@types/prismjs/prismjs-1.26.5.tgz 6329
-storage/@types/prop-types/package.json 63032
+storage/@types/prop-types/package.json 65319
 storage/@types/prop-types/prop-types-15.7.11.tgz 2622
 storage/@types/prop-types/prop-types-15.7.12.tgz 2839
 storage/@types/prop-types/prop-types-15.7.13.tgz 2900
@@ -4830,6 +4830,7 @@ storage/@types/react-dom/react-dom-19.1.3.tgz 6416
 storage/@types/react-infinite-scroller/package.json 39227
 storage/@types/react-infinite-scroller/react-infinite-scroller-1.2.5.tgz 2432
 storage/@types/react-is/react-is-19.0.0.tgz 2541
+storage/@types/react-native/package.json 3674677
 storage/@types/react-native/react-native-0.49.5.tgz 75185
 storage/@types/react-reconciler/package.json 60346
 storage/@types/react-reconciler/react-reconciler-0.26.7.tgz 11580
@@ -4849,7 +4850,7 @@ storage/@types/react-transition-group/react-transition-group-4.4.11.tgz 5962
 storage/@types/react-transition-group/react-transition-group-4.4.12.tgz 5989
 storage/@types/react-window/package.json 41256
 storage/@types/react-window/react-window-1.8.8.tgz 5564
-storage/@types/react/package.json 2904602
+storage/@types/react/package.json 3095661
 storage/@types/react/react-16.14.63.tgz 30971
 storage/@types/react/react-17.0.74.tgz 30538
 storage/@types/react/react-17.0.84.tgz 31149
@@ -4886,7 +4887,7 @@ storage/@types/rimraf/rimraf-3.0.0.tgz 2183
 storage/@types/rimraf/rimraf-4.0.5.tgz 1125
 storage/@types/sax/sax-1.2.3.tgz 2557
 storage/@types/sax/sax-1.2.7.tgz 2563
-storage/@types/scheduler/package.json 34131
+storage/@types/scheduler/package.json 36282
 storage/@types/scheduler/scheduler-0.16.2.tgz 3164
 storage/@types/scheduler/scheduler-0.16.8.tgz 3180
 storage/@types/scheduler/scheduler-0.23.0.tgz 1989
@@ -5732,6 +5733,7 @@ storage/amqplib/package.json 89735
 storage/angular-eslint/angular-eslint-18.4.0.tgz 5374
 storage/angular-eslint/package.json 234915
 storage/animated/animated-0.2.2.tgz 74603
+storage/animated/package.json 29063
 storage/anser/anser-1.4.10.tgz 10267
 storage/anser/anser-2.1.0.tgz 11420
 storage/anser/anser-2.3.0.tgz 14435
@@ -6506,6 +6508,7 @@ storage/builtins/builtins-5.0.0.tgz 1834
 storage/builtins/package.json 45281
 storage/bulk-replace/bulk-replace-0.0.1.tgz 762
 storage/bulma/bulma-1.0.4.tgz 662853
+storage/bulma/package.json 207447
 storage/bundle-name/bundle-name-3.0.0.tgz 1678
 storage/bundle-name/bundle-name-4.1.0.tgz 1680
 storage/bundle-name/package.json 22649
@@ -6642,6 +6645,7 @@ storage/canonical-path/canonical-path-0.0.2.tgz 1307
 storage/canonical-path/canonical-path-1.0.0.tgz 5183
 storage/canonical-path/package.json 7569
 storage/canvas-confetti/canvas-confetti-1.9.3.tgz 20285
+storage/canvas-confetti/package.json 151327
 storage/canvas/canvas-2.11.2.tgz 125947
 storage/canvas/package.json 445274
 storage/capital-case/capital-case-1.0.4.tgz 3786
@@ -7263,6 +7267,7 @@ storage/create-jest/package.json 21663
 storage/create-next-app/create-next-app-15.1.4.tgz 192180
 storage/create-next-app/create-next-app-15.2.2.tgz 192477
 storage/create-react-class/create-react-class-15.7.0.tgz 21074
+storage/create-react-class/package.json 49728
 storage/create-refine-app/create-refine-app-1.12.9.tgz 26339
 storage/create-remix/create-remix-2.16.2.tgz 24719
 storage/create-require/create-require-1.1.1.tgz 2710
@@ -10583,7 +10588,7 @@ storage/js-tokens/js-tokens-3.0.2.tgz 5991
 storage/js-tokens/js-tokens-4.0.0.tgz 6542
 storage/js-tokens/js-tokens-9.0.0.tgz 4431
 storage/js-tokens/js-tokens-9.0.1.tgz 4432
-storage/js-tokens/package.json 51421
+storage/js-tokens/package.json 53387
 storage/js-yaml/js-yaml-3.13.1.tgz 74050
 storage/js-yaml/js-yaml-3.14.1.tgz 76875
 storage/js-yaml/js-yaml-3.7.0.tgz 70884
@@ -12215,6 +12220,7 @@ storage/nopt/nopt-8.1.0.tgz 9865
 storage/nopt/package.json 84815
 storage/nopter/nopter-0.3.0.tgz 7847
 storage/normalize-css-color/normalize-css-color-1.0.2.tgz 4421
+storage/normalize-css-color/package.json 6795
 storage/normalize-node-version/normalize-node-version-11.0.0.tgz 8132
 storage/normalize-node-version/package.json 180922
 storage/normalize-package-data/normalize-package-data-2.5.0.tgz 8662
@@ -13660,6 +13666,7 @@ storage/react-admin/react-admin-5.5.3.tgz 687413
 storage/react-async/react-async-10.0.1.tgz 69759
 storage/react-avatar/package.json 251878
 storage/react-avatar/react-avatar-3.10.0.tgz 21884
+storage/react-bits/package.json 23909
 storage/react-bits/react-bits-1.0.5.tgz 9130
 storage/react-calendar-heatmap/react-calendar-heatmap-1.10.0.tgz 27983
 storage/react-calendar-heatmap/react-calendar-heatmap-1.9.0.tgz 28048
@@ -13682,7 +13689,7 @@ storage/react-docgen/react-docgen-5.4.0.tgz 42040
 storage/react-docgen/react-docgen-5.4.3.tgz 42686
 storage/react-docgen/react-docgen-7.0.3.tgz 52403
 storage/react-docgen/react-docgen-7.1.1.tgz 52482
-storage/react-dom/package.json 8203073
+storage/react-dom/package.json 9339638
 storage/react-dom/react-dom-16.14.0.tgz 739871
 storage/react-dom/react-dom-17.0.2.tgz 744992
 storage/react-dom/react-dom-18.2.0.tgz 1087708
@@ -13758,7 +13765,7 @@ storage/react-intersection-observer/react-intersection-observer-9.15.0.tgz 26085
 storage/react-intersection-observer/react-intersection-observer-9.16.0.tgz 26342
 storage/react-intl/react-intl-7.1.9.tgz 43536
 storage/react-is-deprecated/react-is-deprecated-0.1.2.tgz 2419
-storage/react-is/package.json 5490990
+storage/react-is/package.json 6040208
 storage/react-is/react-is-16.13.1.tgz 5463
 storage/react-is/react-is-17.0.2.tgz 5785
 storage/react-is/react-is-18.1.0.tgz 5340
@@ -13873,6 +13880,7 @@ storage/react-test-renderer/react-test-renderer-17.0.2.tgz 310688
 storage/react-test-renderer/react-test-renderer-18.3.1.tgz 337662
 storage/react-textarea-autosize/react-textarea-autosize-8.3.4.tgz 9333
 storage/react-textarea-autosize/react-textarea-autosize-8.5.3.tgz 7959
+storage/react-timer-mixin/package.json 12301
 storage/react-timer-mixin/react-timer-mixin-0.13.4.tgz 7754
 storage/react-toastify/package.json 821915
 storage/react-toastify/react-toastify-8.2.0.tgz 114813
@@ -13898,7 +13906,7 @@ storage/react-window/react-window-1.8.11.tgz 186633
 storage/react-youtube/react-youtube-7.14.0.tgz 7446
 storage/react-zdog/package.json 85309
 storage/react-zdog/react-zdog-1.2.2.tgz 15373
-storage/react/package.json 6728956
+storage/react/package.json 7413406
 storage/react/react-16.14.0.tgz 60583
 storage/react/react-17.0.2.tgz 74686
 storage/react/react-18.2.0.tgz 81152
@@ -14465,7 +14473,7 @@ storage/sax/sax-1.4.1.tgz 15623
 storage/saxes/package.json 151401
 storage/saxes/saxes-5.0.1.tgz 35877
 storage/saxes/saxes-6.0.0.tgz 35374
-storage/scheduler/package.json 5712442
+storage/scheduler/package.json 6257289
 storage/scheduler/scheduler-0.19.1.tgz 21001
 storage/scheduler/scheduler-0.20.2.tgz 20245
 storage/scheduler/scheduler-0.21.0.tgz 17808
@@ -15676,6 +15684,7 @@ storage/tsx/package.json 345620
 storage/tsx/tsx-4.17.0.tgz 151456
 storage/tsx/tsx-4.19.2.tgz 151768
 storage/tsx/tsx-4.19.3.tgz 151771
+storage/ttf2woff/package.json 21195
 storage/ttf2woff/ttf2woff-3.0.0.tgz 4484
 storage/tty-browserify/package.json 7169
 storage/tty-browserify/tty-browserify-0.0.0.tgz 1255
@@ -16792,4 +16801,5 @@ storage/zwitch/package.json 48224
 storage/zwitch/zwitch-1.0.5.tgz 2887
 storage/zwitch/zwitch-2.0.2.tgz 3440
 storage/zwitch/zwitch-2.0.4.tgz 4529
+storage/zx/package.json 921281
 storage/zx/zx-8.5.3.tgz 191962
