@@ -26,10 +26,10 @@ except Exception as e:
     pass
 
 new_list = {}
+
+peers = []
 for (dirpath, dirnames, filenames) in os.walk(packages_dir):
     for f in filenames:
-        if f == 'package.json':
-            continue
         relpath = os.path.relpath(dirpath, packages_dir)
         g = os.path.join(relpath, f)
         g = g.replace('\\', '/')
@@ -37,7 +37,11 @@ for (dirpath, dirnames, filenames) in os.walk(packages_dir):
         if not (g in original_list) or (str(original_list[g]) != str(sz)):
             new_list[g] = sz
             original_list[g] = sz
+    if len(filenames) == 1:
+        peers.append(dirpath)
 
+with open(".tmp/peers.list", "w", encoding='utf-8') as f:
+    f.write("\n".join(peers))
 
 to_write = []            
 for (g, sz) in original_list.items():
@@ -72,5 +76,8 @@ if os.path.exists('.temp/yarn.lock'):
 
 if os.path.exists('.temp/pnpm-lock.yaml'):
     shutil.copyfile('.temp/pnpm-lock.yaml', f'{out_dir}/pnpm-lock.yaml')
+
+if os.path.exists('.tmp/peers.list'):
+    shutil.copyfile('.tmp/peers.list', f'{out_dir}/peers.list')
 
 shutil.copyfile('npm-packages.list', f'{out_dir}/npm-packages.list')
