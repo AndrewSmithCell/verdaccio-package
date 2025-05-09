@@ -16,7 +16,8 @@
     "@mui/material-nextjs": "next",
     "next": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "@reduxjs/toolkit": "latest"
   },
   "devDependencies": {
     "@types/node": "latest",
