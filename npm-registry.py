@@ -78,6 +78,6 @@ if os.path.exists('.temp/pnpm-lock.yaml'):
     shutil.copyfile('.temp/pnpm-lock.yaml', f'{out_dir}/pnpm-lock.yaml')
 
 if os.path.exists('.temp/peers.list'):
-    shutil.copyfile('.tmp/peers.list', f'{out_dir}/peers.list')
+    shutil.copyfile('.temp/peers.list', f'{out_dir}/peers.list')
 
 shutil.copyfile('npm-packages.list', f'{out_dir}/npm-packages.list')
